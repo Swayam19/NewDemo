@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Whats New</name>
+   <tag></tag>
+   <elementGuidId>1d892796-6629-430f-a0b4-059a8cdb581a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='store.menu']/nav/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.level-top</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2e714939-db3a-4d26-8b1a-1b39a20cac67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://magento.softwaretestingboard.com/what-is-new.html</value>
+      <webElementGuid>6af501bc-16e1-479a-b993-c76ef0601674</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>level-top</value>
+      <webElementGuid>eca8e085-cb56-4f6e-b0c1-2d93408948b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>What's New</value>
+      <webElementGuid>633ac76e-bbb4-48a4-aac5-37d729e0bb9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;store.menu&quot;)/nav[@class=&quot;navigation&quot;]/ul[1]/li[@class=&quot;level0 nav-1 category-item first level-top&quot;]/a[@class=&quot;level-top&quot;]</value>
+      <webElementGuid>6fdfdaf2-7ff7-4281-91d0-dff425fed49f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='store.menu']/nav/ul/li/a</value>
+      <webElementGuid>1824dfde-cdb1-41ea-acdd-b87f3c6d526e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu'])[1]/following::a[1]</value>
+      <webElementGuid>f7c8952b-2a39-42ae-9884-639041f1c773</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compare Products'])[1]/following::a[2]</value>
+      <webElementGuid>59747703-b59e-4fb8-97ed-751a4befdc4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Women'])[1]/preceding::a[1]</value>
+      <webElementGuid>9c0ac1ff-4b66-47e4-aa56-a2b2987fcdc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://magento.softwaretestingboard.com/what-is-new.html')]</value>
+      <webElementGuid>5b7fd18e-8acd-4374-b314-ca1b17aee977</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li/a</value>
+      <webElementGuid>f3b201c5-5dd7-410e-9333-cc27779263ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://magento.softwaretestingboard.com/what-is-new.html' and (text() = concat(&quot;What&quot; , &quot;'&quot; , &quot;s New&quot;) or . = concat(&quot;What&quot; , &quot;'&quot; , &quot;s New&quot;))]</value>
+      <webElementGuid>d3df662e-9791-4db8-9a84-2f12c80a2dd3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
