@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Tops</name>
+   <name>span_View and Edit Cart</name>
    <tag></tag>
-   <elementGuidId>2ce48d4d-3e90-4c4c-bfa9-9e4c679bb0d9</elementGuidId>
+   <elementGuidId>a797b21f-e10f-4ca9-a5e6-aa1552fee4f4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>ol.items > li.item > a</value>
+         <value>a.action.viewcart > span</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//dl[@id='narrow-by-list2']/dd/ol/li/a</value>
+         <value>//div[@id='minicart-content-wrapper']/div[2]/div[5]/div/a/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,103 +21,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>b0227b27-2a3d-4905-8d11-0a8b11cfe46f</webElementGuid>
+      <value>span</value>
+      <webElementGuid>125524a2-57fe-42e4-bd2c-c42b248d8a0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>data-bind</name>
       <type>Main</type>
-      <value>https://magento.softwaretestingboard.com/men/tops-men.html</value>
-      <webElementGuid>9db7cbcc-bcea-4b88-920e-99cf0367ed0d</webElementGuid>
+      <value>i18n: 'View and Edit Cart'</value>
+      <webElementGuid>9bc3aac9-91ca-4dd7-8a81-f912ac5b3f63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Tops</value>
-      <webElementGuid>be455940-c2e7-44ce-b1b4-944cc377b8fe</webElementGuid>
+      <value>View and Edit Cart</value>
+      <webElementGuid>054c93fd-9a3c-4069-a655-9cacb81051a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;narrow-by-list2&quot;)/dd[1]/ol[@class=&quot;items&quot;]/li[@class=&quot;item&quot;]/a[1]</value>
-      <webElementGuid>cdd10ba5-00ba-44b0-9a2f-a6c109161582</webElementGuid>
+      <value>id(&quot;minicart-content-wrapper&quot;)/div[@class=&quot;block-content&quot;]/div[@class=&quot;actions&quot;]/div[@class=&quot;secondary&quot;]/a[@class=&quot;action viewcart&quot;]/span[1]</value>
+      <webElementGuid>d3a2d866-ea42-4b1a-841c-6bb894f888e9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//dl[@id='narrow-by-list2']/dd/ol/li/a</value>
-      <webElementGuid>6c92d2f3-db97-43dc-a76a-e62dc77dbf55</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>//a[contains(text(),'Tops')]</value>
-      <webElementGuid>c1d131fc-23a3-4662-b016-d6b9c5966d8c</webElementGuid>
+      <value>//div[@id='minicart-content-wrapper']/div[2]/div[5]/div/a/span</value>
+      <webElementGuid>be182172-e94b-4e4d-a6e8-2a750f2e494d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category'])[1]/following::a[1]</value>
-      <webElementGuid>abc0b607-71fc-415a-8d51-56f1782c712a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[1]/following::span[1]</value>
+      <webElementGuid>8d796c64-e270-41ac-a48c-f0c5236393e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Options'])[1]/following::a[1]</value>
-      <webElementGuid>bdcc8277-d708-4bfa-9ae4-57e102a2b4ba</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::span[2]</value>
+      <webElementGuid>5d475958-dc9b-4710-b8b6-07bd7c815b93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bottoms'])[3]/preceding::a[1]</value>
-      <webElementGuid>7da06f37-4b79-4050-a740-21df04fa8728</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::span[1]</value>
+      <webElementGuid>6b84662c-4935-4b62-acf7-abc07f5897e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tops'])[4]/preceding::a[2]</value>
-      <webElementGuid>a5ced9d2-3f99-471a-b57b-ddf175131f14</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/preceding::span[1]</value>
+      <webElementGuid>a57f19dc-096c-4bc6-a6a7-8bad74eb782b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(//a[contains(@href, 'https://magento.softwaretestingboard.com/men/tops-men.html')])[2]</value>
-      <webElementGuid>30b82c6f-b50c-4c10-afdd-5dc4e3bee2fb</webElementGuid>
+      <value>//*/text()[normalize-space(.)='View and Edit Cart']/parent::*</value>
+      <webElementGuid>a4621673-fcfb-4dff-862a-f81b05a0ee5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//ol/li/a</value>
-      <webElementGuid>9e4a01d4-ded9-43b4-b96f-9369a05ae840</webElementGuid>
+      <value>//div[5]/div/a/span</value>
+      <webElementGuid>11f6e306-6a02-4d64-bed1-0b6bdb673eda</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://magento.softwaretestingboard.com/men/tops-men.html' and (text() = 'Tops' or . = 'Tops')]</value>
-      <webElementGuid>0aa09832-0e37-4d75-9269-cea141438402</webElementGuid>
+      <value>//span[(text() = 'View and Edit Cart' or . = 'View and Edit Cart')]</value>
+      <webElementGuid>9bbcbcf9-3af1-4e7f-bc7c-5a201d77f53e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

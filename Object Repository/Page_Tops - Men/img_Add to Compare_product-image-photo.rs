@@ -6,12 +6,12 @@
    <elementGuidId>118afd03-6934-44e2-857f-78d3fedb9c27</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//main[@id='maincontent']/div[3]/div/div[3]/ol/li[2]/div/a/span/span/img</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[3]/div/div[3]/ol/li[3]/div/a/span/span/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>7ef701f5-d989-4fa8-8795-b6c563fbb035</webElementGuid>
+      <webElementGuid>5fd9bcf2-bf84-4cfc-8e6f-9237c1b9108d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>class</name>
       <type>Main</type>
       <value>product-image-photo</value>
-      <webElementGuid>f2c10a59-40ce-41ce-bc21-5114d877948f</webElementGuid>
+      <webElementGuid>6d597005-c95c-4c96-836d-c01360078a42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>https://magento.softwaretestingboard.com/pub/media/catalog/product/cache/7c4c1ed835fbbf2269f24539582c6d44/m/t/mt11-blue_main_1.jpg</value>
-      <webElementGuid>0a9604be-360c-4e42-8e59-afae7747642e</webElementGuid>
+      <value>https://magento.softwaretestingboard.com/pub/media/catalog/product/cache/7c4c1ed835fbbf2269f24539582c6d44/m/t/mt10-yellow_main_1.jpg</value>
+      <webElementGuid>7ecf54eb-7d67-4e3b-96f0-898041f16524</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>max-width</name>
       <type>Main</type>
       <value>240</value>
-      <webElementGuid>7b3b30f4-0810-44a9-9319-4522679201ea</webElementGuid>
+      <webElementGuid>a11068eb-6cd4-41a0-b007-432586d18d0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,15 +54,15 @@
       <name>max-height</name>
       <type>Main</type>
       <value>300</value>
-      <webElementGuid>86fdcd5f-8ecf-454b-a5bf-edc28bc0420d</webElementGuid>
+      <webElementGuid>abc4f6fb-22dd-480f-8761-5a2470818573</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>alt</name>
       <type>Main</type>
-      <value>Atlas Fitness Tank</value>
-      <webElementGuid>71bf441e-aa82-4389-9032-109f2c136d58</webElementGuid>
+      <value>Tiberius Gym Tank</value>
+      <webElementGuid>4ea1e89d-7878-48ff-8ba1-bdc7f7604fa9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,10 +70,42 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[@class=&quot;products wrapper grid products-grid&quot;]/ol[@class=&quot;products list items product-items&quot;]/li[@class=&quot;item product product-item&quot;]/div[@class=&quot;product-item-info&quot;]/a[@class=&quot;product photo product-item-photo&quot;]/span[@class=&quot;product-image-container&quot;]/span[@class=&quot;product-image-wrapper&quot;]/img[@class=&quot;product-image-photo&quot;]</value>
-      <webElementGuid>57cd82a1-e25a-4441-945b-2c95f5538465</webElementGuid>
+      <webElementGuid>bc5b3036-1aba-4bc0-aec7-e9a214a32c52</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[3]/div/div[3]/ol/li[3]/div/a/span/span/img</value>
+      <webElementGuid>f3aae5ec-6f6c-43d5-b76c-cb50b0ac375f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Tiberius Gym Tank']</value>
+      <webElementGuid>95029ca8-de5a-42cf-a4dc-03c700371854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/a/span/span/img</value>
+      <webElementGuid>4ac3ddce-1b3d-4512-a593-089a8433c9f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://magento.softwaretestingboard.com/pub/media/catalog/product/cache/7c4c1ed835fbbf2269f24539582c6d44/m/t/mt10-yellow_main_1.jpg' and @alt = 'Tiberius Gym Tank']</value>
+      <webElementGuid>404d9f14-4509-45aa-8123-a4bdef2b6eab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
